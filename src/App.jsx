@@ -1,6 +1,10 @@
 import './App.css'
+import { Analyze } from './Components/Analyze'
 import { Banner } from './Components/Banner'
 import { Navbar } from './Components/Navbar'
+import { Products } from './Components/Products'
+import { Projects } from './Components/Projects'
+import { Services } from './Components/Services'
 
 function App() {
 
@@ -8,6 +12,10 @@ function App() {
     <>
       <Navbar/>
       <Banner/>
+      <Analyze/>
+      <Services/>
+      <Projects/>
+      <Products/>
     </>
   )
 }
