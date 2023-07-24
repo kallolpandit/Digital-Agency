@@ -3,9 +3,9 @@ import { FaChevronDown } from 'react-icons/fa';
 
 export const Navbar = () => {
   return (
-     <nav className='py-14'>
+     <nav className='py-14 bg-body'>
          <div className="container">
-             <div className='flex gap-24 items-center'>
+             <div className='flex gap-20 items-center'>
                  <div>
                      <a href="#">
                         <img src="./images/logo.png" alt="logo" />
@@ -16,7 +16,7 @@ export const Navbar = () => {
                         <li><a href="#" className='hover:text-brand transition-all'>Home</a></li>
                         <li><a href="#" className='hover:text-brand transition-all'>The Studio</a></li>
                         <li className='relative group'><a href="#" className='hover:text-brand transition-all flex gap-2 items-center'>Services<FaChevronDown/></a>
-                           <ul className='absolute  top-full left-0 text-primary w-full p-5  hidden group-hover:block transition-all'>
+                           <ul className='absolute  top-full left-0 text-primary bg-white rounded-r-lg w-full p-5  hidden group-hover:block transition-all'>
                               <li><a href="#" className='hover:text-brand'>Services 1</a></li>
                               <li><a href="#" className='hover:text-brand'>Services 2</a></li>
                               <li><a href="#" className='hover:text-brand'>Services 3</a></li>
@@ -25,7 +25,7 @@ export const Navbar = () => {
                            </ul>
                         </li>
                         <li className='relative group'><a href="#" className='hover:text-brand transition-all flex gap-2 items-center'>Projects<FaChevronDown/></a>
-                           <ul className='absolute top-full left-0 text-primary w-full p-5  hidden group-hover:block transition-all'>
+                           <ul className='absolute top-full left-0 text-primary bg-white rounded-lg w-full p-5  hidden group-hover:block transition-all'>
                               <li><a href="#" className='hover:text-brand'>Projects 1</a></li>
                               <li><a href="#" className='hover:text-brand'>Projects 2</a></li>
                               <li><a href="#" className='hover:text-brand'>Projects 3</a></li>

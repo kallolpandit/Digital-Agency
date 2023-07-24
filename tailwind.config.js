@@ -10,6 +10,7 @@ export default {
     },
     extend: {
       colors: {
+        'body': '#E5E5E5',
         'brand': '#0256FF',
         'primary': '#000000',
         'secondary': '#222222',
@@ -18,6 +19,9 @@ export default {
       fontFamily: {
         'syne': ['Syne', 'sans-serif',],
         'dm': ['DM Sans', 'sans-serif',],
+
+      },
+      backgroundImage: {
 
       }
     },
