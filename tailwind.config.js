@@ -23,6 +23,7 @@ export default {
       },
       backgroundImage: {
         'analyze': "url('./images/analyze_bg.png')",
+        'company': "url('./images/company_bg.png')",
       }
     },
   },
