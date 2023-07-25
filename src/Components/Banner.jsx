@@ -22,11 +22,11 @@ export const Banner = () => {
                      <div className='flex gap-14 py-12 items-center'>
                          <p className='font-syne font-normal text-lg text-secondary w-full lg:w-60'>Euismod ipsum pellentesque
                             sit nullam fermentum justo.</p>
-                         <a href="#" className='inline-block p-4 rounded-xl bg-brand text-base text-white font-syne font-semibold hover:bg-white hover:text-brand	 transition-all'>Learn more about us</a>
+                         <a href="" className='inline-block p-4 rounded-xl bg-brand text-base text-white font-syne font-semibold hover:bg-white hover:text-brand	 transition-all'>Learn more about us</a>
                      </div>
                      <div className='flex gap-4 items-center'>
                         <p className='p-5 group  bg-brand border border-[#0256FF] hover:bg-white rounded-full w-fit transition-all'><span className='text-white group-hover:text-brand transition-all'><FaPlay/></span></p>
-                        <a href='#' className='font-syne font-normal text-lg text-brand'>View our new showreel</a>
+                        <a href='' className='font-syne font-normal text-lg text-brand'>View our new showreel</a>
                      </div>
                   </div>
               </div>
@@ -35,25 +35,25 @@ export const Banner = () => {
                   <div className='pt-16'>
                       <div className='flex gap-20 justify-center'>
                          <div>
-                            <a href="#"><img src="./images/pratner_1.png" alt="pratner_1" /></a>
+                            <a href=""><img src="./images/pratner_1.png" alt="pratner_1" /></a>
                          </div>
                          <div>
-                            <a href="#"><img src="./images/pratner_2.png" alt="pratner_2" /></a>
+                            <a href=""><img src="./images/pratner_2.png" alt="pratner_2" /></a>
                          </div>
                          <div>
-                            <a href="#"><img src="./images/pratner_3.png" alt="pratner_3" /></a>
+                            <a href=""><img src="./images/pratner_3.png" alt="pratner_3" /></a>
                          </div>
                          <div>
-                            <a href="#"><img src="./images/pratner_4.png" alt="pratner_4" /></a>
+                            <a href=""><img src="./images/pratner_4.png" alt="pratner_4" /></a>
                          </div>
                          <div>
-                           <a href="#"> <img src="./images/pratner_5.png" alt="pratner_5" /></a>
+                           <a href=""> <img src="./images/pratner_5.png" alt="pratner_5" /></a>
                          </div>
                          <div>
-                            <a href="#"><img src="./images/pratner_6.png" alt="pratner_6" /></a>
+                            <a href=""><img src="./images/pratner_6.png" alt="pratner_6" /></a>
                          </div>
                          <div>
-                            <a href="#"><img src="./images/pratner_7.png" alt="pratner_7" /></a>
+                            <a href=""><img src="./images/pratner_7.png" alt="pratner_7" /></a>
                          </div>
                       </div>
                   </div>

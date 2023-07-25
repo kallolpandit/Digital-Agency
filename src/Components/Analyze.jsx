@@ -13,7 +13,7 @@ export const Analyze = () => {
                    <p className='font-syne font-normal text-lg text-secondary w-full lg:w-80 pb-12'>Mauris purus maecenas purus, aliquet
                     lacus varius. Proin venenatis vel cras
                     phasellus condimentum.</p>
-                   <a href="#" className='font-syne font-bold text-base text-white px-5 py-4 bg-tag shadow-xl rounded-xl hover:bg-white hover:text-brand transition-all'>Got a project? Contact us!</a>
+                   <a href="" className='font-syne font-bold text-base text-white px-5 py-4 bg-tag shadow-xl rounded-xl hover:bg-white hover:text-brand transition-all'>Got a project? Contact us!</a>
                </div>
             </div>
         </div>
