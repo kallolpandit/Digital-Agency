@@ -26,7 +26,7 @@ export const Projects = () => {
                    </div>
                    <div className='group hover:shadow-xl transition-all'>
                        <div className='w-fit'>
-                           <img src="./images/project_1.png" alt="project_1" />
+                           <img src="./images/project_2.png" alt="project_2" />
                            <div className='bg-white  text-center py-8 rounded-b-2xl'>
                              <h4 className='font-dm font-medium text-lg text-primary'>Avada Interior Prebuilt Website</h4>
                              <a href="#" className='font-dm font-normal text-lg text-brand group-hover:text-tag transition-all'>Web Design</a>
@@ -35,7 +35,7 @@ export const Projects = () => {
                    </div>
                    <div className='group hover:shadow-xl transition-all'>
                        <div className='w-fit'>
-                           <img src="./images/project_1.png" alt="project_1" />
+                           <img src="./images/project_3.png" alt="project_3" />
                            <div className='bg-white  text-center py-8 rounded-b-2xl'>
                              <h4 className='font-dm font-medium text-lg text-primary'>Avada Interior Prebuilt Website</h4>
                              <a href="#" className='font-dm font-normal text-lg text-brand group-hover:text-tag transition-all'>Web Design</a>

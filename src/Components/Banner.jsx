@@ -1,6 +1,5 @@
 import React from 'react'
 import {FaPlay} from 'react-icons/fa';
-
 export const Banner = () => {
   return (
     <section className='pt-3 bg-body'>
